@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Am0du
-- 👀 I’m interested in Cyber security, web deevlopment & Blockchain technology
+- 👀 I’m interested in Cyber security & web development.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on as many project as possible to help my growth
 - 📫 How to reach me amodudavid777@gmail.com
