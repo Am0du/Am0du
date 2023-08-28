@@ -1,6 +1,6 @@
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Am0du"><img src="https://github-readme-streak-stats.herokuapp.com/?user=daviesdevyt&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Am0du"><img src="https://github-readme-streak-stats.herokuapp.com/?user=am0du&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ## Hi 👋 My name is David Amodu
 ============================
@@ -8,7 +8,7 @@
 Backend web developer
 ---------------------
 
-I have been coding for about 1 years now and I have passion for backend development with python (Flask, FastAPI) 
+I have been coding for 12 months now and i have developed a likeness for solving problems at the backend with python 
 
 * ✉️  You can contact me at [Amodudavid777@gmail.com](mailto:amodudavid777@gmail.com)
 * 🧠  I'm currently fine tuning my skill with python
