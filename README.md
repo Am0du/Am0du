@@ -1,6 +1,8 @@
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Am0du"><img src="https://github-readme-streak-stats.herokuapp.com/?user=am0du&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Am0du" align='left'><img src="https://github-readme-streak-stats.herokuapp.com/?user=am0du&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/am0du/github-readme-stats" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=am0du&layout=compact" /></a>
+![Top Langs]()
 
 ## Hi 👋 My name is David Amodu
 ============================
