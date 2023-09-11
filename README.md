@@ -9,7 +9,7 @@
 Backend web developer
 ---------------------
 
-I have been coding for 12 months now and i have developed a likeness for solving problems at the backend with python 
+I am a techie who has found peace in solving backend problems with Python.
 
 * ✉️  You can contact me at [Amodudavid777@gmail.com](mailto:amodudavid777@gmail.com)
 * 🧠  I'm currently fine tuning my skill with python
