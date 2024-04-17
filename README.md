@@ -6,13 +6,13 @@
 ## Hi 👋 My name is David Amodu
 ============================
 
-Backend web developer
+Software Engineer (Backend)
 ---------------------
 
-I am a techie who has found peace in solving backend problems with Python.
+I am a backend engineer who enjoys solving backend problems one problem at a time with Python and java.
 
 * ✉️  You can contact me at [Amodudavid777@gmail.com](mailto:amodudavid777@gmail.com)
-* 🧠  I'm currently fine tuning my skill with python
+* 🧠  I'm currently work with SpringBoot.
 ### Skills
 
 <p align="left">
