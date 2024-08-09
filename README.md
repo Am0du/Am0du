@@ -6,7 +6,7 @@
 ## Hi 👋 My name is David Amodu
 ============================
 
-Software Engineer (Backend)
+Software Engineer
 ---------------------
 
 I am a backend engineer who enjoys solving backend problems one problem at a time with Python and java.
